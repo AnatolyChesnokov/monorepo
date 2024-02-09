@@ -1,0 +1,13 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 200px;
+  justify-content: center;
+  margin: auto;
+}
+
+.data {
+  color: steelblue;;
+  font-size: 28px;
+}
